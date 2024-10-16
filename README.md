@@ -1,4 +1,5 @@
 # portfolio-project
+Component Proof of Concept
 
 import java.util.ArrayList;
 import java.util.HashMap;
